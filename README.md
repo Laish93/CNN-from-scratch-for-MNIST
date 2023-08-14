@@ -5,6 +5,6 @@ In this notebook, I have built a Convolutional Neural Network just using Numpy. 
   * Convolutional layer
   * ReLU
   * Max Pooling
-  * Affine layer (Fully connected layer)
+  * Fully connected layer
   * Softmax
   * Cross entropy error
