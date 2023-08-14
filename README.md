@@ -7,4 +7,4 @@ In this notebook, I have built a Convolutional Neural Network just using Numpy. 
   * Max Pooling
   * Fully connected layer
   * Softmax
-  * Cross entropy error
+
